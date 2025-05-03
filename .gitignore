@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# VS Code
+.vscode/
+
+# Data files (optional - exclude if you want sample CSVs on GitHub)
+data/*.csv
+
+# Generated bills
+*.txt
+*.pdf
