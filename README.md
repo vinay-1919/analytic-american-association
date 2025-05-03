@@ -45,34 +45,34 @@ pip install -r requirements.txt
 python main.py
 ```
 ### 📂 Project Structure
-analytic-american-association/\
-├── main.py                # Application entry point\
-├── models/                # Data models\
-│   ├── client.py          # Client management\
-│   ├── employee.py        # Employee records\
-│   └── task.py           # Task handling\
-├── utils/                 # Utilities\
-│   ├── validators.py      # Input validation\
-│   └── report_generators.py # Report generation\
-├── data/                  # Sample data\
-│   ├── sample_clients.csv # Client templates\
-│   └── invoice_template.docx # Invoice format\
-├── requirements.txt       # Dependencies\
-└── README.md              # Documentation\
+    analytic-american-association/\
+    ├── main.py                # Application entry point\
+    ├── models/                # Data models\
+    │   ├── client.py          # Client management\
+    │   ├── employee.py        # Employee records\
+    │   └── task.py           # Task handling\
+    ├── utils/                 # Utilities\
+    │   ├── validators.py      # Input validation\
+    │   └── report_generators.py # Report generation\
+    ├── data/                  # Sample data\
+    │   ├── sample_clients.csv # Client templates\
+    │   └── invoice_template.docx # Invoice format\
+    ├── requirements.txt       # Dependencies\
+    └── README.md              # Documentation\
 ### 🖥️ Usage
 Launch the application: python main.py
 
 Navigate through the menu system
 
-Select operations:
+    Select operations:
 
-Create new records
+        Create new records
 
-View existing entries
+        View existing entries
 
-Update information
+        Update information
 
-Delete records
+        Delete records
 
 ### 📝 License
 This project is licensed under the MIT License. See LICENSE for details.
@@ -80,18 +80,21 @@ This project is licensed under the MIT License. See LICENSE for details.
 ### 🤝 Contributing
 Contributions are welcome! Please follow these steps:
 
-Fork the repository
+    •	Fork the repository
 
-Create your feature branch (git checkout -b feature/NewFeature)
+    •	Create your feature branch (git checkout -b feature/NewFeature)
 
-Commit your changes (git commit -m 'Add new feature')
+    •	Commit your changes (git commit -m 'Add new feature')
 
-Push to the branch (git push origin feature/NewFeature)
+    •	Push to the branch (git push origin feature/NewFeature)
 
-Open a Pull Request
+    •	Open a Pull Request
 
 ### 📬 Contact
-Vinay Kumar
-📧 vinaysai773@gmail.com
-🔗 GitHub Profile
-🔗 Project Repository
+For support or inquiries, please contact:
+
+    •	Vinay Kumar - vinay@example.com
+
+    •	Project Link: https://github.com/vinay-1919/analytic-american-association
+
+
